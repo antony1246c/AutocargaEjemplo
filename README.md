@@ -1,6 +1,14 @@
 # 📦 Autocarga Automática
-![](https://i.ibb.co/zVPsM1TB/composer-blog-irontec.webp)
-![](https://i.ibb.co/vC9JLg9t/meta-image.png)
+
+
+<div align="center">
+  <img src="https://i.ibb.co/zVPsM1TB/composer-blog-irontec.webp" alt="FISC" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co/vC9JLg9t/meta-image.png" alt="UTP" width="200"/>
+</div>
+
+<br>
+
 ## 📝 Descripción
 En este pequeño proyecto ejemplo, utilizamos la funcion de carga automatica, utilizando el estandar **PSR-4** manejando clases en **PHP** utilizando **Composer**, evitando los usos del *require* y funcionando de forma manual, mejorando la organizacion del codigo.
 
@@ -60,6 +68,10 @@ $products = new ProductModel();
 echo $products->getId();
 ?>
 ```
+## Documentación utilizada
+
+- [Video sobre Autoload - Carga Automática.](https://www.youtube.com/watch?v=Al8WVUQMA6Y)
+###
 
 ## ✅Resultados finales
 
@@ -71,6 +83,15 @@ echo $products->getId();
 ![Resultados](https://i.ibb.co/bMwRRHRs/prueba.png)
 
 ## 👤Información del Estudiante
+
+<div align="center">
+  <img src="https://i.ibb.co/hRsj2N6J/91-logo-5-fisc-oficial-rgb.png" alt="FISC" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.ibb.co/3yhkfK7X/6-logo-utp-rgb-oficial.png" alt="UTP" width="200"/>
+</div>
+
+<br>
+
 Este laboratorio ha sido desarrollado por el estudiante **Solín Antonio Rodrigúez** de la Universidad Tecnológica de Panamá:
 
 - **Nombre:** Solín Antonio Rodrigúez
